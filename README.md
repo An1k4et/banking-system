@@ -1,4 +1,4 @@
-# 🏦 Digital Banking System — Microservices
+# 🏦 Digital Banking Backend - Microservices Architecture
 
 A **Digital Banking System** built using **Spring Boot and Microservices Architecture**, designed to handle account management, money transfers, payments, fraud detection, and notifications.
 
